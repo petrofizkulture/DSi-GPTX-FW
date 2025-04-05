@@ -16,6 +16,3 @@ Before getting started, ensure you have the following:
 - TWLM++ installed and configured.
 - An SD card with sufficient storage space.
 
-## Installation
-
-Follow these steps to set up **DSi-GPTX-FW**:
