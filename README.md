@@ -12,7 +12,7 @@ This project provides a Nintendo DSi App Provider that allows you to access vari
 ## Requirements
 
 Before getting started, ensure you have the following:
-- A Nintendo DSi console.
+- A Nintendo DSi console/emulator.
 - TWLM++ installed and configured.
-- An SD card with sufficient storage space.
+- A Virtual (optional) SD card with sufficient storage space.
 
